@@ -48,7 +48,6 @@ The primary goals of this project are:
 - `results/`: Output files, including optimization results and validation data.
 - `docs/`: Additional documentation and reports.
 - `README.md`: This file.
-- `LICENSE`: Project license information.
 
 ## Results
 - **TAC Reduction**: Successfully reduced TAC by **47.6%** through the optimization framework.
