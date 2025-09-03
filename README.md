@@ -64,9 +64,6 @@ We welcome contributions to enhance this project! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request with a detailed description of your changes.
 
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 - **Prof. Nitin Kaistha** for guidance and mentorship.
 - The ChE352 course team for providing the opportunity to work on this project.
